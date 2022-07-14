@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T07:24:45.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="c4TSnRGV555PSF1fHU9o" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T07:31:56.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="i3eZx5Ke2LUab7l6DM-m" version="20.0.4" type="github">
   <diagram id="aE9kvv7NJy-3S83cpJ76" name="Page-1">
     <mxGraphModel dx="1292" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,6 +95,15 @@
         </mxCell>
         <mxCell id="0Yh7rT4wNSJPTgpAmVTI-30" value="1.？port对内端口号是否有要求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="810" width="370" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CWnAtOaWCSDDWpwJgl9I-1" value="自己：111&lt;br&gt;对内:111&lt;br&gt;对外的：1111" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWnAtOaWCSDDWpwJgl9I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CWnAtOaWCSDDWpwJgl9I-2" target="CWnAtOaWCSDDWpwJgl9I-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWnAtOaWCSDDWpwJgl9I-2" value="EndPoint&lt;br&gt;特殊的pod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="525" width="153" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
